@@ -1,8 +1,4 @@
 {
-"dependencies": {
-  "express": "^4.18.2",
-  "mongoose": "^6.10.0"
-},
   "name": "expense-tracker-backend",
   "version": "1.0.0",
   "description": "Backend for the Expense Tracker app",

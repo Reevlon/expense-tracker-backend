@@ -2,9 +2,9 @@
   "name": "expense-tracker-backend",
   "version": "1.0.0",
   "description": "Backend for the Expense Tracker app",
-  "main": "App.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node App.js"
+    "start": "node app.js"
   },
   "engines": {
     "node": "18.x"

@@ -1,17 +1,7 @@
-{
-  "name": "expense-tracker-backend",
-  "version": "1.0.0",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.21.2",
-    "mongoose": "^6.13.8"
-  },
-  "scripts": {
-    "start": "node app.js"
-  },
-  "description": "",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+"dependencies": {
+  "express": "^4.18.2",
+  "mongoose": "^6.10.0"
+}
+"engines": {
+  "node": "18.x"
 }

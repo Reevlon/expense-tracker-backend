@@ -5,3 +5,21 @@
 "engines": {
   "node": "18.x"
 }
+{
+  "name": "expense-tracker-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Expense Tracker app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  },
+  "author": "Von Nitsuga",
+  "license": "ISC"
+}
